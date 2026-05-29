@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayushkalambe
+- 👋 Hi, I’m Ayushkalambe.
 - 👀 I’m interested in progrming
 - 🌱 I’m currently learning btech CSE
 - 📫 to reach me ayushkalambe774@gmail.com 
